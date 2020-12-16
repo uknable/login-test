@@ -896,6 +896,12 @@ input {
     padding: 0;
 }
 
+.input-login {
+    width: 10%;
+    padding: 1em;
+    visibility: visible;
+}
+
 label {
     background-color: #eeeeee;
     padding: 0.3em 1em;
